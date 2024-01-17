@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yeva-kolesova.github.io/project-Pokemons/",
+  "homepage": "https://GoitStudentsWorks.github.io/bc-react-65-Yeva-Kolesova/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.0.1",
