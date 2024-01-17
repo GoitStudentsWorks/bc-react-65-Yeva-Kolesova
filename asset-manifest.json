@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc-react-65-Yeva-Kolesova/static/css/main.c28c0a40.css",
-    "main.js": "/bc-react-65-Yeva-Kolesova/static/js/main.2e995bbb.js",
+    "main.js": "/bc-react-65-Yeva-Kolesova/static/js/main.3a3156bf.js",
     "static/media/gradient.webp": "/bc-react-65-Yeva-Kolesova/static/media/gradient.97f7d926370def36c1c7.webp",
     "static/media/Poppins-Regular.ttf": "/bc-react-65-Yeva-Kolesova/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-SemiBold.ttf": "/bc-react-65-Yeva-Kolesova/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
@@ -17,10 +17,10 @@
     "static/media/plus.svg": "/bc-react-65-Yeva-Kolesova/static/media/plus.6194a661e88e1e5113d28da2398b6404.svg",
     "static/media/minus.svg": "/bc-react-65-Yeva-Kolesova/static/media/minus.c1930871236002c803c7b6a6c0b99024.svg",
     "main.c28c0a40.css.map": "/bc-react-65-Yeva-Kolesova/static/css/main.c28c0a40.css.map",
-    "main.2e995bbb.js.map": "/bc-react-65-Yeva-Kolesova/static/js/main.2e995bbb.js.map"
+    "main.3a3156bf.js.map": "/bc-react-65-Yeva-Kolesova/static/js/main.3a3156bf.js.map"
   },
   "entrypoints": [
     "static/css/main.c28c0a40.css",
-    "static/js/main.2e995bbb.js"
+    "static/js/main.3a3156bf.js"
   ]
 }
